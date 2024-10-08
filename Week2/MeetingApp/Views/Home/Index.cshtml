@@ -1,0 +1,19 @@
+@using MeetingApp.Models
+@model IEnumerable<User>
+
+<h1> Toplantı sayfasına hoşgeldiniz </h1>
+<h2> Katılım durumunuzu bildiriniz </h2>
+
+@Html.ActionLink("Özet için tıklayınız", "Index", "MeetingSummary")
+
+
+<br></br>
+<h2> Katılımcı listesi: </h2>
+
+<ul>
+    @foreach(User u in Model){
+    <li>
+        @u.Name
+    </li>
+    }
+</ul>
