@@ -6,5 +6,17 @@ namespace MeetingApp.Controllers {
         public IActionResult Index(){
             return View(Models.User.GetUsers());
         }
+
+        /*
+        public IActionResult Index(){
+            return View();
+        }
+        */
+        
+        /*
+        public String Index(){
+            return "Hello World!";
+        }
+        */
     }
 }
