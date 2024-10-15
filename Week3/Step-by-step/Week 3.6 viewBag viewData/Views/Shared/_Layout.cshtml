@@ -1,0 +1,36 @@
+@* This file is a simple HTML document. 
+The contents of other views will be inserted by the @RenderBody expression. *@
+
+
+@*<h1> this title is in Layout </h1>*@
+@*<h1> Software Engineers Meeting 2024 </h1>*@
+@* 
+https://getbootstrap.com/docs/5.3/getting-started/download/ 
+https://getbootstrap.com/docs/5.3/utilities/text/
+https://getbootstrap.com/docs/4.0/components/card/
+*@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css"/>
+    </head>
+
+    <body class="text-center">
+        <div class="bg-primary text-white p-2 text-center">
+            Software Engineers Meeting 2024 
+        </div>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-6 text-center">
+                    <div class="card">
+                        <div class="card-body">
+                            @RenderBody()  
+                        </div>
+                    </div>
+                </div>    
+            </div>
+        </div>     
+    </body>
+
+</html>

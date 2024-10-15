@@ -1,0 +1,68 @@
+
+
+
+<h1> Welcome ! </h1>
+<h2> Register to the meeting by clicking <a href="/Meeting/Register">here.</a></h2>
+
+@Html.ActionLink("About the meeting", "Index", "MeetingSummary")
+
+
+@* Razor allows to mix up c# and html: *@
+@* using @ sign we can write c# code *@
+<h4> @DateTime.Now </h4>
+
+@* Using a code block: *@ 
+@{
+  var greet = "Hey threre!";
+  var name = "John";
+  <h1>@greet I'm @name!</h1>
+}
+
+@* Using paranthesis: *@ 
+<p>Last week this time: @(DateTime.Now - TimeSpan.FromDays(7))</p>
+
+@* it is enough to put @ sign only the beginning of loops and conditional statements *@
+@* ul tag means unordered list, li tag means list items *@
+<ul>
+  @for (int i = 0; i < 3; i++)
+  {
+    <li>@i</li>
+  }
+</ul>
+
+
+@* if else statement *@
+@{ var time = 9; }
+
+@if (time < 10) 
+{
+  <p>Good morning, the time is: @time</p>
+} 
+else if (time < 20) 
+{
+  <p>Good day, the time is: @time</p>
+}
+else 
+{
+  <p>Good evening, the time is: @time</p>
+}
+
+
+@* Source: https://www.codecademy.com/learn/asp-net-i/modules/asp-net-razor-syntax/cheatsheet *@
+
+
+
+
+@* 
+@using is the c# using directive: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-directive 
+@model specifies the type of the model passed to this view, check the home/index action 
+*@
+
+@using MeetingApp.Models
+@model List<UserInfo> 
+
+<p>Participant list: </p>  
+@foreach(var user in Model){
+    @user.Name 
+    <br>
+}

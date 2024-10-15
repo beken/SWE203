@@ -1,0 +1,47 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MeetingApp
+build_property.RootNamespace = MeetingApp
+build_property.ProjectDir = /Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/Views/Meeting/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/Views/Meeting/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/Views/Meeting/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZy9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/Views/Meeting/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZy9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/Views/MeetingSummary/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZ1N1bW1hcnkvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

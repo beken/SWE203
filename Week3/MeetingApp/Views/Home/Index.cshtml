@@ -1,0 +1,16 @@
+<h2> this is our home/index view </h2>
+
+@DateTime.Now
+@(DateTime.Now - TimeSpan.FromDays(7))
+
+@* This is a code block *@
+@{
+    var name = "Beyza";
+    <h1> Welcome @name </h1>
+}
+
+<ul>
+@for (int i = 0; i < 3; i++){
+    <li> @i </li>
+}
+</ul>
