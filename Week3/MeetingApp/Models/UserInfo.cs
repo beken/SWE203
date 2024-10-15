@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace MeetingApp.Models{
     public class UserInfo{
         public int id{get; set;}

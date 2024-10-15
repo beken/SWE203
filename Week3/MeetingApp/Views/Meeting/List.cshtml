@@ -1,0 +1,25 @@
+@using MeetingApp.Models
+@model List<UserInfo>
+
+<h1> This the list of participants </h1>
+
+<table>
+    <thead>
+        <tr> Name </tr>
+        <tr> Attendance </tr>
+    </thead>
+    <body>
+        @foreach(var user in Model){
+           <tr>
+                <td> @user.Name </td>
+                <td> @user.WillAttend </td>
+           </tr> 
+        }
+
+    </body>
+</table>    
+
+
+@section footer{
+    <h5> Number of participants: @ViewBag.count  </h5>
+}

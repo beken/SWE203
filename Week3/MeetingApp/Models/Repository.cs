@@ -33,5 +33,4 @@ public static class Repository{
     public static List<UserInfo> users(){
         return _users;
     }
-
 }

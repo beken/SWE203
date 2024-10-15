@@ -26,3 +26,4 @@
 /Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/ref/MeetingApp.dll
 /Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cache
 /Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/bin/Debug/net8.0/MeetingApp.staticwebassets.runtime.json
