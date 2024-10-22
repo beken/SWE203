@@ -1,0 +1,25 @@
+@using Homework1.Models
+@model List<Announcement>
+
+
+
+
+
+<h2>Announcements:</h2>
+
+<table>
+    <thead>
+        <tr>
+            <td><b>Title</b></td>
+            <td><b>Text</b></td>
+        </tr>
+    </thead>
+    <body>
+        @foreach(var a in Model){
+            <tr>
+                <td>@a.Title</td>
+                <td>@a.Text</td>
+            </tr>
+        }
+    </body>
+</table>
