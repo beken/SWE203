@@ -1,0 +1,40 @@
+@using MeetingApp.Models
+@model List<UserInfo>
+
+
+@section header {
+    <div id="header">
+        MEETING PARTICIPANTS
+    </div>
+}
+
+
+<table>
+    <thead>
+    <tr>
+        <td><b>Name</b></td>
+        <td><b>Attandence status</b></td>
+    </tr>
+    </thead>
+    <tbody>
+        
+        @foreach(var user in Model){
+            var status = user.WillAttend == true ? "Yes" : "No";
+        
+        <tr>
+            <td>@user.Name</td>
+            <td>@status</td>
+            <td>
+                <a href="/Meeting/Details/@user.id">Details</a> 
+            </td>
+        </tr>        
+    }
+    </tbody>
+
+</table>
+
+@* html table tag includes thead and body tags. 
+thead tag is used to group header content while the body tag is used group the main content of the table *@
+
+@* The <a> tag defines a hyperlink, which is used to link from one page to another. *@
+@* href attribute specifies the link *@

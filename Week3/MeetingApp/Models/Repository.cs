@@ -14,7 +14,7 @@ public static class Repository{
             });
 
             _users.Add(new UserInfo(){
-            id = 1,
+            id = 2,
             Name = "Elif",
             Phone = "4321",
             Email = "elif@sakarya.edu.tr",
@@ -22,7 +22,7 @@ public static class Repository{
             });
 
             _users.Add(new UserInfo(){
-            id = 1,
+            id = 3,
             Name = "Mehmet",
             Phone = "5555",
             Email = "mehmet@sakarya.edu.tr",
@@ -32,5 +32,14 @@ public static class Repository{
 
     public static List<UserInfo> users(){
         return _users;
+    }
+
+    public static UserInfo? GetById(int id){
+        return _users.FirstOrDefault(user => user.id == id);
+    }
+
+    public static void CreateUser(UserInfo user){
+        user.id = _users.Count + 1;
+        _users.Add(user);
     }
 }

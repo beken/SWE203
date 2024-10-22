@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/MeetingApp.csproj": {}
+    "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week3/MeetingApp/MeetingApp.csproj": {}
   },
   "projects": {
-    "/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/MeetingApp.csproj": {
+    "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week3/MeetingApp/MeetingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/MeetingApp.csproj",
+        "projectUniqueName": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week3/MeetingApp/MeetingApp.csproj",
         "projectName": "MeetingApp",
-        "projectPath": "/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/MeetingApp.csproj",
+        "projectPath": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week3/MeetingApp/MeetingApp.csproj",
         "packagesPath": "/Users/beyzaeken/.nuget/packages/",
-        "outputPath": "/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/",
+        "outputPath": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week3/MeetingApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/beyzaeken/.nuget/NuGet/NuGet.Config"

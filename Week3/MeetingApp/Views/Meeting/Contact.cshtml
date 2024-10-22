@@ -1,0 +1,40 @@
+@*<label> Organizer: </label>
+<p>beken@sakarya.edu.tr </p>
+
+<label> Main contact: </label>
+<p>bilgi@sakarya.edu.tr </p>
+*@
+
+@* 
+<label> Organizer: </label>
+<a href="mailto:beken@sakarya.edu.tr">beken@sakarya.edu.tr</a>
+
+<label> Main contact: </label>
+<a href="mailto:bilgi@sakarya.edu.tr">bilgi@sakarya.edu.tr</a>
+*@
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, MeetingApp 
+
+<label> Organizer: </label> <email mail-to="beken"></email>
+<label> Main contact: </label> <email mail-to="bilgi"></email>
+
+
+<table>
+    <tr>
+        <td>Meeting 2023</td>
+        <td><button button-type="submit"></button></td>
+    </tr>
+     <tr>
+        <td>Meeting 2022</td>
+        <td><button button-type="submit"></button></td>
+    </tr>
+     <tr>
+        <td>Meeting 2021</td>
+        <td><button button-type="submit"></button></td>
+    </tr>
+     <tr>
+        <td>Meeting 2020</td>
+        <td><button button-type="submit"></button></td>
+    </tr>
+</table>

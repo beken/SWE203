@@ -1,0 +1,46 @@
+@* This file is a simple HTML document. 
+The contents of other views will be inserted by the @RenderBody() expression. *@
+
+
+@*<h1> this title is in Layout </h1>*@
+@*<h1> Software Engineers Meeting 2024 </h1>*@
+@* 
+https://getbootstrap.com/docs/5.3/getting-started/download/ 
+https://getbootstrap.com/docs/5.3/utilities/text/
+https://getbootstrap.com/docs/4.0/components/card/
+https://www.w3schools.com/html/html_layout.asp 
+*@
+
+@* Second parameter in RenderSection() determines whether the section is optional across all views *@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.min.css"/>
+        <h6 class="bg-primary text-white text-center m-2 p-2">
+            @RenderSection("Header", false) 
+        </h6>
+    </head>
+
+    <body class="text-center">
+        <div class="bg-primary text-white text-center m-2 p-2 ">
+            Software Engineers Meeting 2024 
+        </div>
+        <div class="container text-center" style="width: 700px">
+            <div class="card">
+                <div class="card-body">
+                    @RenderBody()
+                </div>
+            </div>
+        </div>     
+    </body>
+
+    <footer>
+        <h6 class="bg-primary text-white text-center m-2 p-2">
+            @RenderSection("Footer", false) 
+        </h6>
+    </footer>
+
+
+
+</html>

@@ -1,0 +1,30 @@
+@model MeetingApp.Models.UserInfo
+
+<h4>Attendance form:</h4>
+<form method="post" action="Register">
+
+<div>
+    <label asp-for="Name">Name</label>
+    <input asp-for="Name" name="model.Name"></input>
+</div>
+
+<div>
+    <label asp-for="Phone">Phone</label>
+    <input asp-for="Phone" name="model.Phone"></input>
+</div>
+
+<div>
+    <label asp-for="Email">Email</label>
+    <input asp-for="Email" name="model.Email"></input>
+</div>
+
+<div>
+    <label asp-for="WillAttend">Attendance</label>
+    <select asp-for="WillAttend" name="model.WillAttend">
+        <option value="true">Yes, I will</option>
+        <option value="false">No, I won't</option>
+    </select>
+</div>
+
+
+<button type="submit" class="btn btn-primary">Register</button>
