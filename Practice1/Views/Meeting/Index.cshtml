@@ -1,0 +1,41 @@
+
+<h3>Last years' meetings:</h3>
+<table>
+    <tr>
+        <td>Meeting 2023</td><td><button button-type="submit">click</button></td>
+    </tr>
+    <tr>
+        <td>Meeting 2022</td><td><button button-type="submit">click</button></td>
+    </tr>
+    <tr>
+        <td>Meeting 2021</td><td><button button-type="submit">click</button></td>
+    </tr>
+    <tr>
+        <td>Meeting 2020</td><td><button2 button-type="submit" button-text="CANCELLED"></button2></td>
+    </tr>
+</table>
+
+
+@*Since each button shares the same type, we can use a tag helper:*@
+
+@*Register tag helpers to use*@
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, MeetingApp
+
+
+@*There are built-in tag helpers such as:
+
+asp-controller: specifies the name of the route that will be used to generate the URL
+asp-route: specifies the controller that the URL will target
+asp-action: specifies the action method that the URL will target
+
+
+<form asp-controller="MeetingSummary" asp-action="Index" method="post">
+    <button button-type="submit"></button>
+</form>
+
+<form method="post">
+    <button asp-route="Custom" button-type="submit"></button>
+</form>
+
+*@

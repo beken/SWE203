@@ -1,0 +1,428 @@
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/bin/Debug/net8.0/appsettings.Development.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/bin/Debug/net8.0/appsettings.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/bin/Debug/net8.0/MeetingApp
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/bin/Debug/net8.0/MeetingApp.deps.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/bin/Debug/net8.0/MeetingApp.runtimeconfig.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/bin/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/bin/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/MeetingApp.AssemblyInfoInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/MeetingApp.AssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/MeetingApp.csproj.CoreCompileInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/MeetingApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/MeetingApp.sourcelink.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/staticwebassets.build.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/staticwebassets.development.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/staticwebassets/msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/staticwebassets/msbuild.build.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/scopedcss/bundle/MeetingApp.styles.css
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/refint/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/MeetingApp.genruntimeconfig.cache
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/ref/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/bin/Debug/net8.0/appsettings.Development.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/bin/Debug/net8.0/appsettings.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/bin/Debug/net8.0/MeetingApp
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/bin/Debug/net8.0/MeetingApp.deps.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/bin/Debug/net8.0/MeetingApp.runtimeconfig.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/bin/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/bin/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/MeetingApp.AssemblyInfoInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/MeetingApp.AssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/MeetingApp.csproj.CoreCompileInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/MeetingApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/MeetingApp.sourcelink.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/staticwebassets/msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/staticwebassets/msbuild.build.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/scopedcss/bundle/MeetingApp.styles.css
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/refint/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/MeetingApp.genruntimeconfig.cache
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/MeetingApp-1/obj/Debug/net8.0/ref/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/bin/Debug/net8.0/appsettings.Development.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/bin/Debug/net8.0/appsettings.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/bin/Debug/net8.0/MeetingApp
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/bin/Debug/net8.0/MeetingApp.deps.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/bin/Debug/net8.0/MeetingApp.runtimeconfig.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/bin/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/bin/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/MeetingApp.AssemblyInfoInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/MeetingApp.AssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/MeetingApp.csproj.CoreCompileInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/MeetingApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/MeetingApp.sourcelink.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/staticwebassets/msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/staticwebassets/msbuild.build.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/scopedcss/bundle/MeetingApp.styles.css
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/refint/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/MeetingApp.genruntimeconfig.cache
+/Users/beyzaeken/netProjects/SWE203Fall24/Week3/Week 3.1/obj/Debug/net8.0/ref/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/bin/Debug/net8.0/appsettings.Development.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/bin/Debug/net8.0/appsettings.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/bin/Debug/net8.0/MeetingApp
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/bin/Debug/net8.0/MeetingApp.deps.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/bin/Debug/net8.0/MeetingApp.runtimeconfig.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/bin/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/bin/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/MeetingApp.AssemblyInfoInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/MeetingApp.AssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/MeetingApp.csproj.CoreCompileInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/MeetingApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/staticwebassets/msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/staticwebassets/msbuild.build.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/scopedcss/bundle/MeetingApp.styles.css
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/refint/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/MeetingApp.genruntimeconfig.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/ref/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.1/obj/Debug/net8.0/MeetingApp.sourcelink.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/bin/Debug/net8.0/appsettings.Development.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/bin/Debug/net8.0/appsettings.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/bin/Debug/net8.0/MeetingApp
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/bin/Debug/net8.0/MeetingApp.deps.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/bin/Debug/net8.0/MeetingApp.runtimeconfig.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/bin/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/bin/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/MeetingApp.AssemblyInfoInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/MeetingApp.AssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/MeetingApp.csproj.CoreCompileInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/MeetingApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/MeetingApp.sourcelink.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/staticwebassets.build.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/staticwebassets.development.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/staticwebassets/msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/staticwebassets/msbuild.build.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/scopedcss/bundle/MeetingApp.styles.css
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/refint/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/MeetingApp.genruntimeconfig.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepBystep/Week 3.2/obj/Debug/net8.0/ref/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/bin/Debug/net8.0/appsettings.Development.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/bin/Debug/net8.0/appsettings.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/bin/Debug/net8.0/MeetingApp
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/bin/Debug/net8.0/MeetingApp.deps.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/bin/Debug/net8.0/MeetingApp.runtimeconfig.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/bin/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/bin/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/MeetingApp.AssemblyInfoInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/MeetingApp.AssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/MeetingApp.csproj.CoreCompileInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/MeetingApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/MeetingApp.sourcelink.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/staticwebassets.build.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/staticwebassets.development.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/staticwebassets/msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/staticwebassets/msbuild.build.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/scopedcss/bundle/MeetingApp.styles.css
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/refint/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/MeetingApp.genruntimeconfig.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.3 meeting list/obj/Debug/net8.0/ref/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/bin/Debug/net8.0/appsettings.Development.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/bin/Debug/net8.0/appsettings.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/bin/Debug/net8.0/MeetingApp
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/bin/Debug/net8.0/MeetingApp.deps.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/bin/Debug/net8.0/MeetingApp.runtimeconfig.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/bin/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/bin/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/MeetingApp.AssemblyInfoInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/MeetingApp.AssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/MeetingApp.csproj.CoreCompileInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/MeetingApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/MeetingApp.sourcelink.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/staticwebassets.build.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/staticwebassets.development.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/staticwebassets/msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/staticwebassets/msbuild.build.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/scopedcss/bundle/MeetingApp.styles.css
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/refint/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/MeetingApp.genruntimeconfig.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.4 add first layout/obj/Debug/net8.0/ref/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/bin/Debug/net8.0/appsettings.Development.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/bin/Debug/net8.0/appsettings.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/bin/Debug/net8.0/MeetingApp
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/bin/Debug/net8.0/MeetingApp.deps.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/bin/Debug/net8.0/MeetingApp.runtimeconfig.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/bin/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/bin/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/MeetingApp.AssemblyInfoInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/MeetingApp.AssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/MeetingApp.csproj.CoreCompileInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/MeetingApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/MeetingApp.sourcelink.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/staticwebassets.build.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/staticwebassets.development.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/staticwebassets/msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/staticwebassets/msbuild.build.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/scopedcss/bundle/MeetingApp.styles.css
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/refint/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/MeetingApp.genruntimeconfig.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/obj/Debug/net8.0/ref/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.5 style with bootstrap/bin/Debug/net8.0/MeetingApp.staticwebassets.runtime.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/bin/Debug/net8.0/appsettings.Development.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/bin/Debug/net8.0/appsettings.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/bin/Debug/net8.0/MeetingApp.staticwebassets.runtime.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/bin/Debug/net8.0/MeetingApp
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/bin/Debug/net8.0/MeetingApp.deps.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/bin/Debug/net8.0/MeetingApp.runtimeconfig.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/bin/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/bin/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/MeetingApp.AssemblyInfoInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/MeetingApp.AssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/MeetingApp.csproj.CoreCompileInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/MeetingApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/MeetingApp.sourcelink.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/staticwebassets.build.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/staticwebassets.development.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/staticwebassets/msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/staticwebassets/msbuild.build.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/scopedcss/bundle/MeetingApp.styles.css
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/refint/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/MeetingApp.genruntimeconfig.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.6 viewBag/obj/Debug/net8.0/ref/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/bin/Debug/net8.0/appsettings.Development.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/bin/Debug/net8.0/appsettings.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/bin/Debug/net8.0/MeetingApp.staticwebassets.runtime.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/bin/Debug/net8.0/MeetingApp
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/bin/Debug/net8.0/MeetingApp.deps.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/bin/Debug/net8.0/MeetingApp.runtimeconfig.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/bin/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/bin/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/MeetingApp.AssemblyInfoInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/MeetingApp.AssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/MeetingApp.csproj.CoreCompileInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/MeetingApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/MeetingApp.sourcelink.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/staticwebassets.build.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/staticwebassets.development.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/staticwebassets/msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/staticwebassets/msbuild.build.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/scopedcss/bundle/MeetingApp.styles.css
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/refint/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/MeetingApp.genruntimeconfig.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 3.7 layout sections/obj/Debug/net8.0/ref/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/bin/Debug/net8.0/appsettings.Development.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/bin/Debug/net8.0/appsettings.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/bin/Debug/net8.0/MeetingApp.staticwebassets.runtime.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/bin/Debug/net8.0/MeetingApp
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/bin/Debug/net8.0/MeetingApp.deps.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/bin/Debug/net8.0/MeetingApp.runtimeconfig.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/bin/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/bin/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/MeetingApp.AssemblyInfoInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/MeetingApp.AssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/MeetingApp.csproj.CoreCompileInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/MeetingApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/MeetingApp.sourcelink.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/staticwebassets.build.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/staticwebassets.development.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/staticwebassets/msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/staticwebassets/msbuild.build.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/scopedcss/bundle/MeetingApp.styles.css
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/refint/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/MeetingApp.genruntimeconfig.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 model binding/obj/Debug/net8.0/ref/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/bin/Debug/net8.0/appsettings.Development.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/bin/Debug/net8.0/appsettings.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/bin/Debug/net8.0/MeetingApp.staticwebassets.runtime.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/bin/Debug/net8.0/MeetingApp
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/bin/Debug/net8.0/MeetingApp.deps.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/bin/Debug/net8.0/MeetingApp.runtimeconfig.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/bin/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/bin/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.AssemblyInfoInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.AssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.csproj.CoreCompileInputs.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cs
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.sourcelink.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/staticwebassets.build.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/staticwebassets.development.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/staticwebassets/msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/staticwebassets/msbuild.build.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MeetingApp.props
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/scopedcss/bundle/MeetingApp.styles.css
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/refint/MeetingApp.dll
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.genruntimeconfig.cache
+/Users/beyzaeken/netProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/ref/MeetingApp.dll
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/bin/Debug/net8.0/appsettings.Development.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/bin/Debug/net8.0/appsettings.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/bin/Debug/net8.0/MeetingApp.staticwebassets.runtime.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/bin/Debug/net8.0/MeetingApp
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/bin/Debug/net8.0/MeetingApp.deps.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/bin/Debug/net8.0/MeetingApp.runtimeconfig.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/bin/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/bin/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.AssemblyInfoInputs.cache
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.AssemblyInfo.cs
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.csproj.CoreCompileInputs.cache
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cache
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cs
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.sourcelink.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/staticwebassets.build.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/staticwebassets.development.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/staticwebassets/msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/staticwebassets/msbuild.build.MeetingApp.props
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MeetingApp.props
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MeetingApp.props
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/scopedcss/bundle/MeetingApp.styles.css
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/refint/MeetingApp.dll
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/MeetingApp.genruntimeconfig.cache
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/Debug/net8.0/ref/MeetingApp.dll
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/bin/Debug/net8.0/appsettings.Development.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/bin/Debug/net8.0/appsettings.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/bin/Debug/net8.0/MeetingApp.staticwebassets.runtime.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/bin/Debug/net8.0/MeetingApp
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/bin/Debug/net8.0/MeetingApp.deps.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/bin/Debug/net8.0/MeetingApp.runtimeconfig.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/bin/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/bin/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/MeetingApp.AssemblyInfoInputs.cache
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/MeetingApp.AssemblyInfo.cs
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/MeetingApp.csproj.CoreCompileInputs.cache
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/MeetingApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cache
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cs
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/MeetingApp.sourcelink.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/staticwebassets.build.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/staticwebassets.development.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/staticwebassets/msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/staticwebassets/msbuild.build.MeetingApp.props
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MeetingApp.props
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MeetingApp.props
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/scopedcss/bundle/MeetingApp.styles.css
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/refint/MeetingApp.dll
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/MeetingApp.genruntimeconfig.cache
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/MeetingApp/obj/Debug/net8.0/ref/MeetingApp.dll
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/bin/Debug/net8.0/appsettings.Development.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/bin/Debug/net8.0/appsettings.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/bin/Debug/net8.0/MeetingApp.staticwebassets.runtime.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/bin/Debug/net8.0/MeetingApp
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/bin/Debug/net8.0/MeetingApp.deps.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/bin/Debug/net8.0/MeetingApp.runtimeconfig.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/bin/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/bin/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/MeetingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/MeetingApp.AssemblyInfoInputs.cache
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/MeetingApp.AssemblyInfo.cs
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/MeetingApp.csproj.CoreCompileInputs.cache
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/MeetingApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cache
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/MeetingApp.RazorAssemblyInfo.cs
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/MeetingApp.sourcelink.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/staticwebassets/msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/staticwebassets/msbuild.build.MeetingApp.props
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MeetingApp.props
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MeetingApp.props
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/scopedcss/bundle/MeetingApp.styles.css
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/MeetingApp.dll
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/refint/MeetingApp.dll
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/MeetingApp.pdb
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/MeetingApp.genruntimeconfig.cache
+/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Practice1/obj/Debug/net8.0/ref/MeetingApp.dll

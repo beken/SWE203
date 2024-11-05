@@ -1,0 +1,34 @@
+@* 
+--- With Model ---
+@model string 
+<h1> Welcome! @Model </h1>
+*@
+
+@* 
+--- With ViewBag ---
+<h1> @ViewBag.sayHello @ViewBag.username </h1>
+<h5> @ViewBag.dateTime </h5>
+*@
+
+
+<h1>@ViewData["hello"] Welcome!</h1>
+
+<h2> Register to the meeting by clicking <a href="/Meeting/Register">here.</a></h2>
+
+@Html.ActionLink("About the meeting", "Index", "MeetingSummary")
+
+@Html.ActionLink("Click for the participant list", "List", "Meeting")
+
+
+
+
+@section header {
+    <div id="header">
+        HOME PAGE
+    </div>
+}
+
+@section footer {
+    <h6> There are @ViewBag.NoP participants in meeting. </h6>
+    <h5><a href="/MeetingSummary/Contact">Contact</a></h5>
+}
