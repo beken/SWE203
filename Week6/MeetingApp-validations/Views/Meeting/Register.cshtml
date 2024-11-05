@@ -1,0 +1,42 @@
+
+@model UserInfo
+
+<h4>Attandence Form: </h4>
+<main class="text-center">
+<form method="post" action="/Meeting/Register">
+    <div asp-validation-summary="All" class="text-danger"> </div>
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Name</label>
+        <input asp-for="Name" class="form-control" name="model.Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Phone" class="form-label">Phone</label>
+        <input asp-for="Phone" class="form-control" name="model.Phone" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label">Email</label>
+        <input asp-for="Email" class="form-control" name="model.Email" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="WillAttend" class="form-label">Will Attend</label>
+        <select asp-for="WillAttend" class="form-select" name="model.WillAttend" >
+            <option value="true">Yes, I will</option>
+            <option value="false">No, I will not</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">SAVE</button>
+</form>
+<main>
+
+
+
+@section header {
+    <div id="header">
+        MEETING REGISTRATION
+    </div>
+}

@@ -1,0 +1,27 @@
+
+@*
+<address>
+    Sakarya University, <br> 
+    Esentepe Campus, <br> 
+    Faculty of Computer and Information Science <br> 
+    <strong>Organization:</strong><a href="mailto:beken@sakarya.edu.tr">beken@sakarya.edu.tr</a> <br/>
+    <strong>Location Information:</strong><a href="mailto:bilgi@sakarya.edu.tr">bilgi@sakarya.edu.tr</a>
+</address>
+*@
+
+
+@*Replace the above code with the below one. Functionality is the same, but below one uses a tag helper*@
+
+
+@*Register tag helpers to use*@
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, MeetingApp
+
+@*EmailTagHelper class creates email addresses that ends with our specific domain @sakarya.edu.tr and turns them into links*@
+<address>
+    Sakarya University, <br> 
+    Esentepe Campus, <br> 
+    Faculty of Computer and Information Science <br> <br> 
+    <strong>Organization:</strong><email mail-to="beken"></email> <br/>
+    <strong>Location information:</strong><email mail-to="bilgi"></email>
+</address>
