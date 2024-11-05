@@ -1,0 +1,29 @@
+@model IEnumerable<Product>
+
+<h3>Product details</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product Id</th>
+            <th>Product Name</th>
+            <th>Product Description</th>
+            <th>Product Price</th>
+            <th>Product Category</th>
+        </tr>      
+    </thead>
+    <tbody>
+        @foreach (var pr in Model){
+            <tr>
+                <td>@pr.ProductID</td>
+                <td>@pr.Name</td>
+                <td>@pr.Description</td>
+                <td>@pr.Price</td>
+                <td>@pr.Category</td>
+                <td>
+                    <a asp-controller="Product" asp-action="Update" asp-route-id="@pr.ProductID" class="btn btn-primary btn-sm">Update</a>
+                    <a asp-controller="Product" asp-action="Delete" asp-route-id="@pr.ProductID" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

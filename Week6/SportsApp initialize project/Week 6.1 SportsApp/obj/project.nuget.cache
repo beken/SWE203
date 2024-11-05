@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UTsAaWgc2P8=",
+  "dgSpecHash": "BjPI76nCtD4=",
   "success": true,
-  "projectFilePath": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 6.2 SportsApp initialize project/Week 6.1 SportsApp/Week 6.1 SportsApp.csproj",
+  "projectFilePath": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/SportsApp initialize project/Week 6.1 SportsApp/Week 6.1 SportsApp.csproj",
   "expectedPackageFiles": [
     "/Users/beyzaeken/.nuget/packages/microsoft.data.sqlite.core/8.0.10/microsoft.data.sqlite.core.8.0.10.nupkg.sha512",
     "/Users/beyzaeken/.nuget/packages/microsoft.entityframeworkcore/8.0.10/microsoft.entityframeworkcore.8.0.10.nupkg.sha512",
