@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Week 6.1 SportsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9319f6bf4318684730829b4c5ee156e37e2bb590")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5bf1ce72f2b88e89d70fa70d78952becc277c60")]
 [assembly: System.Reflection.AssemblyProductAttribute("Week 6.1 SportsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Week 6.1 SportsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

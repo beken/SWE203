@@ -2421,11 +2421,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 6.4 SportsApp crud/Week 6.1 SportsApp/Week 6.1 SportsApp.csproj",
+      "projectUniqueName": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/SportsApp crud/Week 6.1 SportsApp/Week 6.1 SportsApp.csproj",
       "projectName": "Week 6.1 SportsApp",
-      "projectPath": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 6.4 SportsApp crud/Week 6.1 SportsApp/Week 6.1 SportsApp.csproj",
+      "projectPath": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/SportsApp crud/Week 6.1 SportsApp/Week 6.1 SportsApp.csproj",
       "packagesPath": "/Users/beyzaeken/.nuget/packages/",
-      "outputPath": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 6.4 SportsApp crud/Week 6.1 SportsApp/obj/",
+      "outputPath": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week6/SportsApp crud/Week 6.1 SportsApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/beyzaeken/.nuget/NuGet/NuGet.Config"
