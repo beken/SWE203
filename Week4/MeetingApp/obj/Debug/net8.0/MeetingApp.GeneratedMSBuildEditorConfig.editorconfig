@@ -9,55 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MeetingApp
 build_property.RootNamespace = MeetingApp
-build_property.ProjectDir = /Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/
+build_property.ProjectDir = /Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week4/MeetingApp/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers
+build_property.MSBuildProjectDirectory = /Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week4/MeetingApp
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/Views/Home/Index.cshtml]
+[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week4/MeetingApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/Views/Meeting/Details.cshtml]
+[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week4/MeetingApp/Views/Meeting/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZy9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/Views/Meeting/Index.cshtml]
+[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week4/MeetingApp/Views/Meeting/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/Views/Meeting/List.cshtml]
+[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week4/MeetingApp/Views/Meeting/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZy9MaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/Views/Meeting/Register.cshtml]
+[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week4/MeetingApp/Views/Meeting/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZy9SZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/Views/Meeting/RegistrationThanks.cshtml]
+[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week4/MeetingApp/Views/Meeting/RegistrationThanks.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZy9SZWdpc3RyYXRpb25UaGFua3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/Views/MeetingSummary/Contact.cshtml]
+[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week4/MeetingApp/Views/MeetingSummary/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZ1N1bW1hcnkvQ29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/Views/MeetingSummary/Index.cshtml]
+[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week4/MeetingApp/Views/MeetingSummary/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVldGluZ1N1bW1hcnkvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/Views/Shared/_Layout.cshtml]
+[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week4/MeetingApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/Views/_ViewImports.cshtml]
+[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week4/MeetingApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/Views/_ViewStart.cshtml]
+[/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week4/MeetingApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

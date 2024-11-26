@@ -21,7 +21,7 @@ namespace MeetingApp.Controllers{
             //---------------- With ViewData-----------------
             ViewData["hello"] = time > 12 ? "Good Day" : "Good Morning";             
             int usercount = Repository.users.Where(info => info.WillAttend == true).Count();
-            ViewBag.NoP = usercount;
+            ViewBag.NumberOfRegisters = usercount;
 
             return View();
             

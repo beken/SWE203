@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/MeetingApp.csproj": {}
+    "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week4/MeetingApp/MeetingApp.csproj": {}
   },
   "projects": {
-    "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/MeetingApp.csproj": {
+    "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week4/MeetingApp/MeetingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/MeetingApp.csproj",
+        "projectUniqueName": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week4/MeetingApp/MeetingApp.csproj",
         "projectName": "MeetingApp",
-        "projectPath": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/MeetingApp.csproj",
+        "projectPath": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week4/MeetingApp/MeetingApp.csproj",
         "packagesPath": "/Users/beyzaeken/.nuget/packages/",
-        "outputPath": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 4.1 tag helpers/obj/",
+        "outputPath": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week4/MeetingApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/beyzaeken/.nuget/NuGet/NuGet.Config"

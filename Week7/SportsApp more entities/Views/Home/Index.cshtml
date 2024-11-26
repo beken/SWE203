@@ -1,0 +1,28 @@
+@model Product
+
+<h2>Sale! Sale! Sale!</h2>
+
+Click for November deals...
+
+<br><br>
+
+<td>@Model.Name</td>
+<td>ONLY @Model.Price TL</td>
+<td>
+    @foreach (var review in Model.Reviews)
+    {
+        <tr>
+            <td>@review.Comment (Rating: @review.Rating)</td>
+        </tr>
+    }
+</td>
+
+
+<br><br>
+
+<form asp-controller="Home" asp-action="SearchProductByName" method="post">
+<p>
+    <input type="text" name="name" class="form-control" placeholder="Search by product name:" />
+</p>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>

@@ -12,7 +12,7 @@ namespace MeetingApp.Models
                 id=2, Name="Mehmet", Email="mehmet@gmail.com", Phone="1235", WillAttend=true
             });
               _users.Add(new UserInfo(){
-                id=3, Name="Ayse", Email="ayse@gmail.com", Phone="1236", WillAttend=true
+                id=3, Name="Ayse", Email="ayse@gmail.com", Phone="1236", WillAttend=false
             });
         }
         
