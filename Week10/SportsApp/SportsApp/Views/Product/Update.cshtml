@@ -1,0 +1,41 @@
+@model ProductUpdateViewModel
+
+<form asp-controller="Product" asp-action="Update" method="post">
+    
+    <input type="hidden" asp-for="Product.ProductID"> @*We need ProductID to update the product, but we dont want to show it*@
+    
+    <div class="mb-3">
+        <label asp-for="Product.Name" class="form-label">Name</label>
+        <input asp-for="Product.Name" class="form-control" />
+        <span asp-validation-for="Product.Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Product.Description" class="form-label">Description</label>
+        <input asp-for="Product.Description" class="form-control" >
+        <span asp-validation-for="Product.Description" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Product.Price" class="form-label">Price</label>
+        <input asp-for="Product.Price" class="form-control">
+        <span asp-validation-for="Product.Price" class="text-danger"></span>
+    </div>
+    
+    <div class="mb-3">
+        <label asp-for="Product.ProductCategoryID" class="form-label">Category</label>
+        <select asp-for="Product.ProductCategoryID" class="form-control">
+            <option value="">Select Category</option>
+            @foreach (var category in Model.Categories)
+            {
+                <option value="@category.ProductCategoryID">
+                    @category.Name
+                </option>
+            }
+        </select>
+        <span asp-validation-for="Product.ProductCategoryID" class="text-danger"></span>
+    </div>
+    
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
