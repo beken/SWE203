@@ -2561,11 +2561,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 9 SportsApp/SportsApp/SportsApp.csproj",
+      "projectUniqueName": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week10/SportsApp/SportsApp/SportsApp.csproj",
       "projectName": "SportsApp",
-      "projectPath": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 9 SportsApp/SportsApp/SportsApp.csproj",
+      "projectPath": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week10/SportsApp/SportsApp/SportsApp.csproj",
       "packagesPath": "/Users/beyzaeken/.nuget/packages/",
-      "outputPath": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 9 SportsApp/SportsApp/obj/",
+      "outputPath": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week10/SportsApp/SportsApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/beyzaeken/.nuget/NuGet/NuGet.Config"

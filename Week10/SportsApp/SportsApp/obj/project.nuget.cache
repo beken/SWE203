@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QIuBLwlb3Zc=",
+  "dgSpecHash": "O9gk6yJJq5I=",
   "success": true,
-  "projectFilePath": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24-stepByStep/Week 9 SportsApp/SportsApp/SportsApp.csproj",
+  "projectFilePath": "/Users/beyzaeken/Desktop/SWE203 - Web Programming/NetProjects/SWE203Fall24/Week10/SportsApp/SportsApp/SportsApp.csproj",
   "expectedPackageFiles": [
     "/Users/beyzaeken/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/beyzaeken/.nuget/packages/microsoft.aspnetcore.cryptography.internal/8.0.11/microsoft.aspnetcore.cryptography.internal.8.0.11.nupkg.sha512",

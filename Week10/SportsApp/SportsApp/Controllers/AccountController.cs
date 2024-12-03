@@ -1,3 +1,4 @@
+using System.Net.Http.Headers;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using SportsApp.ViewModels;
@@ -12,14 +13,15 @@ public class AccountController : Controller{
     }
 
     [HttpGet]
-    public IActionResult Login(string returnUrl = null){
-        // returnUrl keeps the url of the action we are coming from, after login action, we want to return where we came from
-        ViewData["returnUrl"] = returnUrl;
+    public IActionResult Login(string ReturnUrl){
+        // ReturnUrl keeps the url of the action we are coming from, after login action, we want to return where we came from
+        ViewData["ReturnUrl"] = ReturnUrl; //we are not using it?
         return View();
     }
 
     [HttpPost]
-    public async Task<IActionResult> Login(LoginViewModel model, string returnUrl = null){
+    public async Task<IActionResult> Login(LoginViewModel model, string ReturnUrl){
+        // ReturnUrl keeps the url of the action we are coming from, after login action, we want to return where we came from
         if (ModelState.IsValid){
             var user = await _userManager.FindByNameAsync(model.UserName);
 
@@ -27,8 +29,8 @@ public class AccountController : Controller{
                 var result = await _signInManager.PasswordSignInAsync(user, model.Password, false, false);
 
                 if (result.Succeeded){
-                    // if the returnUrl is empty, the user will be returned to the home/index
-                    return Redirect(returnUrl ?? "/"); 
+                    // if the ReturnUrl is empty, the user will be returned to the home/index
+                    return Redirect(ReturnUrl ?? "/"); 
                 }
                 else{
                     ModelState.AddModelError(string.Empty, "Invalid login attempt.");
