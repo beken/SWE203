@@ -1,0 +1,22 @@
+@model List<Product>
+
+Basket:
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Product Price</th>
+        </tr>      
+    </thead>
+    <tbody>
+        @foreach (var pr in Model){
+            <tr>
+                <td>@pr.Name</td>
+                <td>@pr.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-controller="Order" asp-action="CheckOut" class="btn btn-primary btn-sm">CheckOut</a>

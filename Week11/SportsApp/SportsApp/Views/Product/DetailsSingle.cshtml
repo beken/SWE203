@@ -1,0 +1,23 @@
+@model Product
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Product Description</th>
+            <th>Product Price</th>
+            <th>Product Category</th>
+        </tr>      
+    </thead>
+    <tbody>
+            <tr>
+                <td>@Model.Name</td>
+                <td>@Model.Description</td>
+                <td>@Model.Price</td>
+                <td>@Model.ProductCategory.Name</td>
+                <td>
+                    <a asp-controller="Product" asp-action="AddBasket" asp-route-id="@Model.ProductID" class="btn btn-primary btn-sm">Add Basket</a>
+                </td>
+            </tr>
+    </tbody>
+</table>
