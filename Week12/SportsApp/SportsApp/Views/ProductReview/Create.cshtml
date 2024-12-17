@@ -1,0 +1,32 @@
+@model ProductReview
+
+<form asp-controller="ProductReview" asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="ReviewerName" class="form-label"> Reviewer Name</label>
+        <input asp-for="ReviewerName" class="form-control">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Title" class="form-label">Title</label>
+        <input asp-for="Title" class="form-control">
+    </div>   
+    
+    <div class="mb-3">
+        <label asp-for="Comment" class="form-label">Comment</label>
+        <input asp-for="Comment" class="form-control">
+    </div>  
+    
+    <div class="mb-3">
+        <label asp-for="Rating" class="form-label">Rating</label>
+        <input asp-for="Rating" class="form-control">
+    </div>   
+
+    @*<div class="mb-3">
+        <label asp-for="ProductID" class="form-label">Product ID</label>
+        <input asp-for="ProductID" class="form-control">
+    </div>*@
+    @*we need ProductID to create a product review, but we dont want to show ProductID in UI*@
+    <input type="hidden" asp-for="ProductID" class="form-control"> 
+    
+    <button type="submit" class="btn btn-primary">Save changes</button>
+</form>

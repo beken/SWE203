@@ -1,0 +1,18 @@
+@model IEnumerable<Product>
+
+<h3>Your order is successfull.</h3>
+
+<br>
+
+@*
+<h4>Order details</h4>
+<h5>Shipping address: </h5> @Model.ShippingAddress
+*@
+
+<br>
+<h5>Products:</h5>
+@foreach(var p in Model){
+    @p.Name 
+    @p.Price
+    <br>
+}

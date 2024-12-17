@@ -1,0 +1,22 @@
+@model IEnumerable<ProductPriceGroup>
+
+<h2>Product statistics based on price ranges </h2>
+
+<table>
+    <tr>
+        <th>Price ranges</th>
+        <th>Products</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PriceRange)
+            </td>
+            <td>
+                @item.ProductCount
+            </td>
+        </tr>
+    }
+</table>

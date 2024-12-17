@@ -1,0 +1,27 @@
+@model IEnumerable<Product>
+
+Search Results:
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Product Description</th>
+            <th>Product Price</th>
+            <th>Product Category</th>
+        </tr>      
+    </thead>
+    <tbody>
+        @foreach (var pr in Model){
+            <tr>
+                <td>@pr.Name</td>
+                <td>@pr.Description</td>
+                <td>@pr.Price</td>
+                <td>@pr.ProductCategory.Name</td>
+                <td>
+                     <a asp-controller="Product" asp-action="AddBasket" asp-route-id="@pr.ProductID" class="btn btn-primary btn-sm">Add Basket</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

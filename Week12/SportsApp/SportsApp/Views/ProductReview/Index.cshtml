@@ -1,0 +1,32 @@
+@model IEnumerable<ProductReview>
+
+<h3>Reviews of Product</h3>
+
+
+<a href="@Url.Action("Create", "ProductReview", 
+new { id = ViewData["ProductID"] 
+})">
+@*<a href="~/ProductReview/Create">*@
+<button class="btn btn-primary">Add Rate & Comment</button>
+</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Reviewer Name</th>
+            <th>Review Title</th>
+            <th>Review Text</th>
+            <th>Rating</th>
+        </tr>      
+    </thead>
+    <tbody>
+        @foreach (var pr in Model){
+            <tr>
+                <td>@pr.ReviewerName</td>
+                <td>@pr.Title</td>
+                <td>@pr.Comment</td>
+                <td>@pr.Rating</td>
+            </tr>
+        }
+    </tbody>
+</table>

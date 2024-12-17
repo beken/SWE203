@@ -1,0 +1,28 @@
+@model IEnumerable<ProductReview>
+
+<h3>Product Review Management</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Review ID</th>
+            <th>Reviewer Name</th>
+            <th>Review Title</th>
+            <th>Review Text</th>
+            <th>Rating</th>
+            <th>Product ID</th>
+        </tr>      
+    </thead>
+    <tbody>
+        @foreach (var pr in Model){
+            <tr>
+                <td>@pr.ProductReviewID</td>
+                <td>@pr.ReviewerName</td>
+                <td>@pr.Title</td>
+                <td>@pr.Comment</td>
+                <td>@pr.Rating</td>
+                <td>@pr.ProductID</td>
+            </tr>
+        }
+    </tbody>
+</table>

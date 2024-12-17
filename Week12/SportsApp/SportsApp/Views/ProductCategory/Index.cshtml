@@ -1,0 +1,29 @@
+@model IEnumerable<ProductCategory>
+
+<h3>Category Management</h3>
+
+<a href="ProductCategory/Create"><button class="btn btn-primary">Add New Category</button></a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Category ID</th>
+            <th>Category Name</th>
+            <th>Category Description</th>
+            <th>All products in category</th>
+        </tr>      
+    </thead>
+    <tbody>
+        @foreach (var pr in Model){
+            <tr>
+                <td>@pr.ProductCategoryID</td>
+                <td>@pr.Name</td>
+                <td>@pr.Description</td>
+                <td>
+                    @*<a href="/ProductCategory/GetProductsInCategory/@pr.ProductCategoryID">Products</a>*@
+                    <a asp-controller="ProductCategory" asp-action="GetProductsInCategory" asp-route-id="@pr.ProductCategoryID">Products</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
