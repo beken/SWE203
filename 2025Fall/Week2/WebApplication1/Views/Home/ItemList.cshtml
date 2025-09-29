@@ -1,0 +1,7 @@
+@model List<Item>
+<h2>Item list:</h2>
+<ul>
+@foreach(var i in Model){
+    <li>@i.Id - @i.Name</li>
+}
+</ul>

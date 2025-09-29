@@ -1,0 +1,18 @@
+@using RSVPApp.Models
+@model List<Guest>
+
+<h3>List of participants: </h3>
+<table>
+    <thead>
+        <tr> Name </tr>
+        <tr> Attendance </tr>
+    </thead>
+    <tbody>
+        @foreach(var i in Model){
+        <tr>
+            <td> @i.Name </td>
+            <td> @i.WillAttend </td>
+        </tr>
+        }
+    </tbody>
+</table>

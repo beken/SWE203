@@ -1,0 +1,21 @@
+<h2>Registration page</h2>
+
+<form asp-action="Register" method="post">
+    <label>Name: </label>
+    <input type="text" name = "Name" />
+
+    <label>Phone: </label>
+    <input type="text" name = "Phone" />
+
+    <label>Email: </label>
+    <input type="text" name = "Email" />
+    
+    <label>Are you coming?: </label>
+    <!-- when checked, this comes FIRST => binder reads true -->
+    <input type="checkbox" name="WillAttend" value="true" />
+    <!-- when unchecked, only this false gets posted -->
+    <input type="hidden"   name="WillAttend" value="false" />
+    
+    <button type="submit">Submit</button>
+
+</form>
