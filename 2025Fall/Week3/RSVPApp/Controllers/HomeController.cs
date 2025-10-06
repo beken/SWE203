@@ -24,6 +24,14 @@ namespace RSVPApp.Controllers
             Repository.GetGuests().
             Where(g => g.WillAttend == true).Count();
 
+            
+            // Address information
+            /*ViewBag.AddressName = "Sarah’s Apartment";
+            ViewBag.AddressStreet = "123 Sunset Boulevard";
+            ViewBag.AddressCity = "Istanbul";
+            ViewBag.AddressCountry = "Turkey";
+            */
+
             return View();
         }
 
