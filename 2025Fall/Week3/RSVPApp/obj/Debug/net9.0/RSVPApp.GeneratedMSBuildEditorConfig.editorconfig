@@ -43,3 +43,7 @@ build_metadata.AdditionalFiles.CssScope =
 [/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/SWE203/2025Fall/Week3/RSVPApp/Views/Party/RegistrationMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFydHkvUmVnaXN0cmF0aW9uTWVzc2FnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/SWE203/2025Fall/Week3/RSVPApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
