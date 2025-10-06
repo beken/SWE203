@@ -31,3 +31,15 @@ build_metadata.AdditionalFiles.CssScope =
 [/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/SWE203/2025Fall/Week3/RSVPApp/Views/Party/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFydHkvUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/SWE203/2025Fall/Week3/RSVPApp/Views/Party/RegisterSorry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFydHkvUmVnaXN0ZXJTb3JyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/SWE203/2025Fall/Week3/RSVPApp/Views/Party/RegisterThanks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFydHkvUmVnaXN0ZXJUaGFua3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/SWE203/2025Fall/Week3/RSVPApp/Views/Party/RegistrationMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFydHkvUmVnaXN0cmF0aW9uTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

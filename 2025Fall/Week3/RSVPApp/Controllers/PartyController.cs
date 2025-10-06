@@ -20,7 +20,14 @@ namespace RSVPApp.Controllers
         public ActionResult Register(Guest guest)
         {
             Repository.CreateGuest(guest);
-            return View();
+            return View("RegistrationMessage", guest);
+
+            /*if (guest.WillAttend)
+                return View("RegisterThanks", guest);
+            else
+                return View("RegisterSorry", guest);
+            */
+            //return View(); //returns the view with the action name (Register)
         }
 
     }
