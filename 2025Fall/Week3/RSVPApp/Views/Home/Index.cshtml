@@ -1,5 +1,15 @@
 <h1>We are organizing a home party!</h1>
 
+Party will be held on <strong> @ViewBag.partyDate </strong>
+<br />
+@ViewBag.daysLeft days left
+What to bring to the party:
+<ul>
+@foreach(var item in (List<string>)ViewData["whatToBring"]){
+    <li>@item</li>
+}
+</ul>
+
 <br />
 <a href="Party/Index"> 
 Click to see who is coming
@@ -11,3 +21,8 @@ Click to see who is coming
 "Register", 
 "Party"
 )
+
+
+<br />
+
+Number of poeple coming to the party: @ViewBag.NumberOfAccepts
