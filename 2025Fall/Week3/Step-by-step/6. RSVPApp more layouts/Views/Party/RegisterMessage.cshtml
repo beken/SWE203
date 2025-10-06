@@ -1,0 +1,25 @@
+
+
+@if(ViewBag.WillAttend){
+    <h3>Thank you for coming to our party @ViewBag.Name !</h3>
+    @Html.Partial("_AddressPartial")
+}
+else{
+    <h3>We are sorry to hear you are not coming @ViewBag.Name </h3>
+}
+
+
+
+@*
+Since we are using only the model's Name and WillAttend property, we do not need to send/receive whole Guest object.
+
+@using RSVPApp.Models
+@model Guest
+
+@if(@Model.WillAttend){
+    <h3>Thank you for coming to our party @Model.Name !</h3>
+}
+else{
+    <h3>We are sorry to hear you are not coming @Model.Name </h3>
+}
+*@

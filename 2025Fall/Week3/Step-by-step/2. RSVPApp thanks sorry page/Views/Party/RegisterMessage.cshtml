@@ -1,0 +1,9 @@
+@using RSVPApp.Models
+@model Guest
+
+@if(@Model.WillAttend){
+    <h3>Thank you for coming to our party @Model.Name !</h3>
+}
+else{
+    <h3>We are sorry to hear you are not coming @Model.Name </h3>
+}

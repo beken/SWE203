@@ -1,0 +1,19 @@
+@using RSVPApp.Models
+@model List<Guest>
+
+<h3>Who’s coming:</h3>
+<table>
+    <tbody>
+        @foreach(var i in Model){
+        <tr>
+            @if (i.WillAttend) {
+                <td> @i.Name </td>
+            }
+        </tr>
+        }
+    </tbody>
+</table>
+
+@{
+    Layout = "_Layout";
+}
