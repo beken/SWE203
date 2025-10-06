@@ -20,7 +20,13 @@ namespace RSVPApp.Controllers
         public ActionResult Register(Guest guest)
         {
             Repository.CreateGuest(guest);
-            return View("RegistrationMessage", guest);
+
+            ViewBag.Name = guest.Name;
+            ViewBag.WillAttend = guest.WillAttend;
+            //ViewData["title"] = "RSVP app";
+
+            return View("RegistrationMessage");
+
 
             /*if (guest.WillAttend)
                 return View("RegisterThanks", guest);
