@@ -1,8 +1,14 @@
 @using RSVPApp.Models
+@using RSVPApp.TagHelpers
 @model Guest
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
 <main>
     <p> <b>Name:</b> @Model.Name </p>
     <p> <b>Phone:</b> @Model.Phone </p>
-    <p> <b>E-mail:</b> @Model.Email </p>
+    <p> <b>E-mail:</b> 
+    
+    <email mail-to=@Model.Email> </email>
+    
+    </p>
 </main>
