@@ -1,0 +1,32 @@
+@using RSVPApp.Models
+@model List<Guest>
+
+<h3>Who’s coming:</h3>
+<table>
+    <tbody>
+        @foreach(var i in Model){
+        <tr>
+            @if (i.WillAttend) {
+                <td> @i.Name </td>
+                <td>
+                <a asp-controller="Party" asp-action="GuestDetails" asp-route-id="@i.Id" class="btn btn-sm btn-outline-primary">Details </a>
+                </td>
+            }
+        </tr>
+        }
+    </tbody>
+</table>
+
+@{
+    Layout = "_Layout";
+}
+
+@section header {
+    <div id="header">
+        <h1>Excited to see everyone at the party!</h1>
+    </div>
+}
+
+@section footer {
+    <h6>Can’t wait to have fun together!</h6>
+}

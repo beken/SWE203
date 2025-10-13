@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9DDKDomUkpM=",
+  "success": true,
+  "projectFilePath": "/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/Fall25-Local/Week4/3. RSVP person details/RSVPApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/beyzaeken/.nuget/packages/jquery/1.8.0/jquery.1.8.0.nupkg.sha512",
+    "/Users/beyzaeken/.nuget/packages/jquery.validation/1.21.0/jquery.validation.1.21.0.nupkg.sha512",
+    "/Users/beyzaeken/.nuget/packages/microsoft.jquery.unobtrusive.validation/4.0.0/microsoft.jquery.unobtrusive.validation.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

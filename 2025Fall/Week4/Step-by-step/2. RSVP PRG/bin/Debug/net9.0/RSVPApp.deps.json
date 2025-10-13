@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "RSVPApp/1.0.0": {
+        "dependencies": {
+          "Microsoft.jQuery.Unobtrusive.Validation": "4.0.0",
+          "jQuery.Validation": "1.21.0"
+        },
+        "runtime": {
+          "RSVPApp.dll": {}
+        }
+      },
+      "jQuery/1.8.0": {},
+      "jQuery.Validation/1.21.0": {
+        "dependencies": {
+          "jQuery": "1.8.0"
+        }
+      },
+      "Microsoft.jQuery.Unobtrusive.Validation/4.0.0": {
+        "dependencies": {
+          "jQuery": "1.8.0",
+          "jQuery.Validation": "1.21.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RSVPApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "jQuery/1.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-laDFQRJrIRHT0Z0GVYklMt3bE0iu0MZFJwHwg21kt3SHb7Bj8TdNiM3K+ZdK1DzB8ZxKy8z7NkJvwMas+dmHBw==",
+      "path": "jquery/1.8.0",
+      "hashPath": "jquery.1.8.0.nupkg.sha512"
+    },
+    "jQuery.Validation/1.21.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bXkjFal9Ec4vwirRVF1sQgK5MtDW/o3H22rzocW9+0O9ParIAkrzW9RtRZVMB6J5lo+X7mRduFwi6TzFqrR0pQ==",
+      "path": "jquery.validation/1.21.0",
+      "hashPath": "jquery.validation.1.21.0.nupkg.sha512"
+    },
+    "Microsoft.jQuery.Unobtrusive.Validation/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RJ1eBcFIwHINVocYtOlmBQd21jGgHOHGe7TLzmQ9VMRMUqAlJoxyCw1AayBkdExqrEZt0Wz9uaZiDX75NHQmSw==",
+      "path": "microsoft.jquery.unobtrusive.validation/4.0.0",
+      "hashPath": "microsoft.jquery.unobtrusive.validation.4.0.0.nupkg.sha512"
+    }
+  }
+}

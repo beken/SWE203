@@ -1,0 +1,74 @@
+@* <h1>We are organizing a home party!</h1> *@
+<p>The party will be held on: <strong>@ViewBag.PartyDate</strong></p>
+
+@* 
+@if((int)ViewData["DaysLeft"] > 0){
+     <p>There are <strong>@ViewData["DaysLeft"] days</strong> left until the party &#127880;</p>
+}
+*@
+
+
+@if (ViewBag.DaysLeft > 0)
+{
+    <p>There are <strong>@ViewBag.DaysLeft days</strong> left until the party &#127880;</p>
+}
+else if (ViewBag.DaysLeft == 0)
+{
+    <p>&#127881; The party is today!</p>
+}
+else
+{
+    <p> The party already happened. Hope you had fun!</p>
+}
+
+<br />
+What to bring:
+@foreach(dynamic item in (List<string>)ViewData["WhatToBring"]){
+    <li>@item</li>
+}
+
+
+<br />
+<a href="Party/Index"> 
+See who is coming!
+</a> 
+
+
+<br />
+@Html.ActionLink(
+"Click to join us!", 
+"Register", 
+"Party"
+)
+
+<br />
+Number of invitations sent: @ViewBag.NumberOfInvitationsSent
+
+<br />
+Number of accepts: @ViewBag.NumberOfAccepts
+
+<br />
+Number of rejects: @ViewData["NumberOfRejects"]
+
+@* ViewBag dynamically assings type, while ViewData requires explicit casting
+Number of accepts: @(ViewBag.NumberOfAccepts + 1)
+Number of rejects: @((int)ViewData["NumberOfRejects"] +1)
+*@
+
+@{
+    Layout = "_Layout";
+}
+
+@section header {
+    <div id="header">
+        <h1>We are organizing a home party!</h1>
+    </div>
+}
+
+@section footer {
+    <h6> Let the fun begin </h6>
+}
+
+@* 
+@Html.Partial("_AddressPartial") 
+*@
