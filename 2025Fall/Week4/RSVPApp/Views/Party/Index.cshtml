@@ -8,7 +8,10 @@
         <tr>
             @if (i.WillAttend) {
                 <td> @i.Name </td>
-            }
+                <td> 
+                <a asp-controller="Party" asp-action="GuestDetails" asp-route-id="@i.Id" class="btn btn-sm btn-outline-primary">Details</a> 
+                </td>
+            } 
         </tr>
         }
     </tbody>

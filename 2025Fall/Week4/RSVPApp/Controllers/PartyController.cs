@@ -34,5 +34,11 @@ namespace RSVPApp.Controllers
             return View(guest);
         }
 
+        public ActionResult GuestDetails(int id)
+        {
+            var guest = Repository.GetGuests().FirstOrDefault(i => i.Id == id);
+            return View(guest);
+        }
+
     }
 }
