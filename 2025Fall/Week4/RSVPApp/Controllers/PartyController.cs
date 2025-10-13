@@ -21,10 +21,17 @@ namespace RSVPApp.Controllers
         {
             if (ModelState.IsValid)
             {
-                Repository.CreateGuest(guest);  
+                Repository.CreateGuest(guest);
+                return RedirectToAction("RegisterMessage", new { id = guest.Id });
             }
 
-            return View("RegisterMessage", guest);
+            return View(guest);
+        }
+
+        public ActionResult RegisterMessage(int id)
+        {
+            var guest = Repository.GetGuests().FirstOrDefault(i => i.Id == id);
+            return View(guest);
         }
 
     }
