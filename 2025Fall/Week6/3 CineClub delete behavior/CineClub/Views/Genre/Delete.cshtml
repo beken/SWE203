@@ -1,0 +1,9 @@
+@model Genre
+
+<p>Are you sure you want to delete this genre?:</p>
+@Model.Id, @Model.Name
+
+<form asp-action="Delete" method="post">
+    <button type="submit">Yes</button>
+    <a asp-action="Read">Cancel</a>
+</form>

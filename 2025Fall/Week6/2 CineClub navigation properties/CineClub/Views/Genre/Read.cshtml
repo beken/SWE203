@@ -1,0 +1,10 @@
+@model List<Genre>
+
+@foreach(var g in Model){
+    <li>
+        @g.Id, 
+        @g.Name, 
+        <a asp-action="Update" asp-route-id="@g.Id"> UPDATE </a>, 
+        <a asp-action="Delete" asp-route-id="@g.Id"> DELETE </a>
+    </li>
+}

@@ -23,7 +23,7 @@ app.MapPost("/blogs", (Blog blog, BloggingDbContext db) =>
 {
     db.Blogs.Add(blog);
     db.SaveChanges();
-    return Results.Created($"/blogs/{blog.BlogId}", blog);
+    //return Results.Created($"/blogs/{blog.BlogId}", blog);
 });
 
 //GET a single blog (by id)
