@@ -1,0 +1,95 @@
+@model IEnumerable<CineClub.Models.Movie>
+
+@{
+    //ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+<form asp-action="Index" method="get" class="mb-3 d-flex gap-2">
+
+    <!-- movie search text box -->
+    <input type="search"
+           name="movieSearchString"
+           value="@ViewData["MovieSearchString"]"
+           class="form-control"
+           placeholder="Search movie title or genre" />
+
+    <!-- year selection -->
+    <select name="year" class="form-select">
+        <option value="">All Years</option>
+        @if (ViewData["Years"] != null)
+        {
+            foreach (var y in ViewData["Years"] as List<int?>)
+            {
+                <option value="@y" selected="@((ViewData["Year"] as int?).HasValue && y == (ViewData["Year"] as int?).Value)">
+                    @y
+                </option>
+            }
+        }
+    </select>
+
+    <!-- genre selection -->
+    <select name="genreId" class="form-select">
+        <option value="">All Genres</option>
+        @if (ViewData["Genres"] != null)
+        {
+            foreach (var g in ViewData["Genres"] as List<CineClub.Models.Genre>)
+            {
+                <option value="@g.Id" selected="@((ViewData["GenreId"] as int?).HasValue && g.Id == (ViewData["GenreId"] as int?).Value)">
+                    @g.Name
+                </option>
+            }
+        }
+    </select>
+
+    <button type="submit" class="btn btn-primary">Search</button>
+    <a asp-action="Index" class="btn btn-outline-secondary">Clear</a>
+</form>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReleaseYear)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genre)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReleaseYear)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genre.Name)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
