@@ -8186,11 +8186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/Fall25-Local/Week9/0 CineClub (latest version from last week)/CineClub/CineClub.csproj",
+      "projectUniqueName": "/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/SWE203/2025Fall/Week9/0 CineClub (latest version from last week)/CineClub/CineClub.csproj",
       "projectName": "CineClub",
-      "projectPath": "/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/Fall25-Local/Week9/0 CineClub (latest version from last week)/CineClub/CineClub.csproj",
+      "projectPath": "/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/SWE203/2025Fall/Week9/0 CineClub (latest version from last week)/CineClub/CineClub.csproj",
       "packagesPath": "/Users/beyzaeken/.nuget/packages/",
-      "outputPath": "/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/Fall25-Local/Week9/0 CineClub (latest version from last week)/CineClub/obj/",
+      "outputPath": "/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/SWE203/2025Fall/Week9/0 CineClub (latest version from last week)/CineClub/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/beyzaeken/.nuget/NuGet/NuGet.Config"

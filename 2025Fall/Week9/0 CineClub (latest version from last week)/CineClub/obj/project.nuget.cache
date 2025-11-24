@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BnyOv4cD+MM=",
+  "dgSpecHash": "uVPZ/ndoYwo=",
   "success": true,
-  "projectFilePath": "/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/Fall25-Local/Week9/0 CineClub (latest version from last week)/CineClub/CineClub.csproj",
+  "projectFilePath": "/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/SWE203/2025Fall/Week9/0 CineClub (latest version from last week)/CineClub/CineClub.csproj",
   "expectedPackageFiles": [
     "/Users/beyzaeken/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/beyzaeken/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",
