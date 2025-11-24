@@ -1,0 +1,36 @@
+﻿@model List<Genre>
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    
+    @*
+    <ul>
+    @foreach (var g in Model)
+    {
+        <li>@g.Name</li>
+    }
+    </ul>
+    *@ 
+
+    <div class="row">
+    @foreach (var g in Model)
+    {
+        <div class="col-md-3 mb-3">
+            <div class="card shadow-sm">
+                <div class="card-body text-center">
+                    <h5 class="card-title">@g.Name</h5>
+                    <a asp-controller="Movie" 
+                        asp-action="Index" 
+                        asp-route-genreId="@g.Id" 
+                        class="btn btn-primary btn-sm">
+                            View Movies
+                        </a>
+                    @*<a href="/Movie?genre=@g.Id" class="btn btn-primary btn-sm">View movies</a>*@
+                </div>
+            </div>
+        </div>
+    }
+    </div>
+
+</div>

@@ -1,0 +1,121 @@
+@model CineClub.Models.Movie
+@inject CineClub.Services.IUserHelperService UserHelper
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Movie</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ReleaseYear)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ReleaseYear)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Genre)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Genre.Name)
+        </dd>
+    </dl>
+</div>
+
+
+<h4>Reviews:</h4>
+
+@if (Model.Reviews != null && Model.Reviews.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Rating</th>
+                <th>Content</th>
+                <th>Created</th>
+                <th>Author</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var r in Model.Reviews.OrderByDescending(r => r.CreatedAtUtc))
+        {
+            <tr>
+                <td>@r.Rating / 5</td>
+                <td>@r.Content</td>
+                <td>@r.CreatedAtUtc.ToString()</td>
+                <td>@await UserHelper.GetUserNameAsync(r.UserId)</td>
+                <td>
+                    @* If the logged-in user is the review owner *@
+                    @if (User.Identity!.IsAuthenticated && await UserHelper.IsOwnerAsync(r.UserId))
+                    {
+                        <a asp-controller="Review"
+                        asp-action="Edit"
+                        asp-route-id="@r.Id">Edit</a>
+                        
+                        <a asp-controller="Review"
+                        asp-action="Delete"
+                        asp-route-id="@r.Id">Delete</a>
+                    }
+
+                    @* If the user Admin *@
+                    else if (User.IsInRole("Admin"))
+                    {
+                        <a asp-controller="Review"
+                        asp-action="Edit"
+                        asp-route-id="@r.Id">Edit</a>
+                        
+                        <a asp-controller="Review"
+                        asp-action="Delete"
+                        asp-route-id="@r.Id">Delete</a>
+                    }
+                </td>
+
+
+
+
+
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No reviews for this movie yet.</p>
+}
+
+@if (User.Identity!.IsAuthenticated)
+{
+    <p>
+        <a asp-controller="Review"
+           asp-action="Create"
+           asp-route-movieId="@Model.Id"
+           class="btn btn-primary btn-sm">
+            Add Review
+        </a>
+    </p>
+}
+
+
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
