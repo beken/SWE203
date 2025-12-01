@@ -1,0 +1,13 @@
+@model string
+
+<div class="text-center mt-5">
+    <h2>Confirmation:</h2>
+
+    <div class="alert alert-info mt-4">
+        @Model
+    </div>
+    
+    <a asp-controller="Account" asp-action="Login" class="btn btn-primary mt-3">
+        Go to Login Page
+    </a>
+</div>
