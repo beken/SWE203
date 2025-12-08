@@ -1,0 +1,42 @@
+<h2>Live Chat (SignalR)</h2>
+
+<div class="row">
+    <div class="col-md-8">
+        <input id="messageInput" class="form-control" placeholder="Write a message…" />
+    </div>
+    <div class="col-md-2">
+        <button id="sendBtn" class="btn btn-primary">Send</button>
+    </div>
+</div>
+
+<ul id="messages" class="list-group mt-3"></ul>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+
+    <script>
+        const connection = new signalR.HubConnectionBuilder()
+            .withUrl("/chatHub")
+            .build();
+
+        // Receive message from server
+        connection.on("ReceiveMessage", function (msg) {
+            const li = document.createElement("li");
+            li.textContent = msg;
+            li.className = "list-group-item";
+            document.getElementById("messages").appendChild(li);
+        });
+
+        connection.start().catch(err => console.error(err.toString()));
+
+        document.getElementById("sendBtn").onclick = function () {
+            const input = document.getElementById("messageInput");
+            const message = input.value;
+
+            connection.invoke("SendMessage", message)
+                .catch(err => console.error(err.toString()));
+
+            input.value = "";
+        };
+    </script>
+}

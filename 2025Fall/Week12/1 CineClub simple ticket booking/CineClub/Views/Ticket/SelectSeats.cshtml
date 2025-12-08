@@ -1,0 +1,15 @@
+@{
+    ViewData["Title"] = "Select Seats";
+}
+
+<h2>Select Seats</h2>
+
+<form asp-action="Confirm" method="post">
+    <label>Seat 1</label>
+    <input type="checkbox" name="selectedSeats" value="A1" />
+    <label>Seat 2</label>
+    <input type="checkbox" name="selectedSeats" value="A2" />
+    <label>Seat 3</label>
+    <input type="checkbox" name="selectedSeats" value="A3" />
+    <button type="submit">Confirm Booking</button>
+</form>

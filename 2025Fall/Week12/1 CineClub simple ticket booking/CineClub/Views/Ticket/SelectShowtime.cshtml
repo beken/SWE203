@@ -1,0 +1,12 @@
+@{
+    ViewData["Title"] = "Select Showtime";
+    var movieId = (int)ViewBag.MovieId;
+}
+
+<h2>Select a showtime for movie @movieId</h2>
+
+<form asp-action="SelectShowtime" asp-route-movieId="@movieId" method="post">
+    <label>Select showtime id:</label>
+    <input type="number" name="showtimeId" value="1" />
+    <button type="submit">Continue</button>
+</form>
