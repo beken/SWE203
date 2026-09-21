@@ -1,0 +1,18 @@
+@using StudentAttendanceApp.Models
+@model IEnumerable<Student>
+<h3> @ViewBag.CourseCode @ViewBag.CourseName Attendance </h3>
+<p> @ViewBag.WeeklyDay, @ViewBag.WeeklyHour </p>
+
+<a href="/Course/Sign/">Click to sign</a> 
+
+<br>
+<p>Signed students:</p>
+
+<table>
+    @foreach(var std in Model){
+    <tr>
+        <td>@std.StudentID</td>
+        <td>@std.Name</td>
+    </tr>
+    }
+</table>

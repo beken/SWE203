@@ -1,0 +1,55 @@
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/bin/Debug/net9.0/appsettings.Development.json
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/bin/Debug/net9.0/appsettings.json
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/bin/Debug/net9.0/MidtermQuestion.staticwebassets.endpoints.json
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/bin/Debug/net9.0/MidtermQuestion
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/bin/Debug/net9.0/MidtermQuestion.deps.json
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/bin/Debug/net9.0/MidtermQuestion.runtimeconfig.json
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/bin/Debug/net9.0/MidtermQuestion.dll
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/bin/Debug/net9.0/MidtermQuestion.pdb
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/obj/Debug/net9.0/MidtermQuestion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/obj/Debug/net9.0/MidtermQuestion.AssemblyInfoInputs.cache
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/obj/Debug/net9.0/MidtermQuestion.AssemblyInfo.cs
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/obj/Debug/net9.0/MidtermQuestion.csproj.CoreCompileInputs.cache
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/obj/Debug/net9.0/MidtermQuestion.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/obj/Debug/net9.0/MidtermQuestion.RazorAssemblyInfo.cache
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/obj/Debug/net9.0/MidtermQuestion.RazorAssemblyInfo.cs
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/obj/Debug/net9.0/scopedcss/bundle/MidtermQuestion.styles.css
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/obj/Debug/net9.0/staticwebassets.build.json
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/obj/Debug/net9.0/staticwebassets.development.json
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/obj/Debug/net9.0/MidtermQuestion.dll
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/obj/Debug/net9.0/refint/MidtermQuestion.dll
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/obj/Debug/net9.0/MidtermQuestion.pdb
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/obj/Debug/net9.0/MidtermQuestion.genruntimeconfig.cache
+/Users/beyzaeken/Documents/Dersler/SWE203 - Web Programming/NetProjects/MidtermQuestion/MidtermQuestion/obj/Debug/net9.0/ref/MidtermQuestion.dll
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/bin/Debug/net9.0/appsettings.Development.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/bin/Debug/net9.0/appsettings.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/bin/Debug/net9.0/MidtermQuestion.staticwebassets.endpoints.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/bin/Debug/net9.0/MidtermQuestion
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/bin/Debug/net9.0/MidtermQuestion.deps.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/bin/Debug/net9.0/MidtermQuestion.runtimeconfig.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/bin/Debug/net9.0/MidtermQuestion.dll
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/bin/Debug/net9.0/MidtermQuestion.pdb
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/MidtermQuestion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/MidtermQuestion.AssemblyInfoInputs.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/MidtermQuestion.AssemblyInfo.cs
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/MidtermQuestion.csproj.CoreCompileInputs.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/MidtermQuestion.MvcApplicationPartsAssemblyInfo.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/MidtermQuestion.RazorAssemblyInfo.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/MidtermQuestion.RazorAssemblyInfo.cs
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/scopedcss/bundle/MidtermQuestion.styles.css
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/staticwebassets.build.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/staticwebassets.development.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/swae.build.ex.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/MidtermQuestion.dll
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/refint/MidtermQuestion.dll
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/MidtermQuestion.pdb
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/MidtermQuestion.genruntimeconfig.cache
+/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/Fall26-Local/StudentAttendance/obj/Debug/net9.0/ref/MidtermQuestion.dll

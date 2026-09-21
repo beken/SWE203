@@ -1,0 +1,14 @@
+@using StudentAttendanceApp.Models
+@model Student
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<main class="text-center">
+
+<form method="post" action="Sign">
+    <div class="mb-3">
+        <label asp-for="StudentID" class="form-label">StudentID</label>
+        <input asp-for="StudentID" class="form-control" name="StudentID" />
+    </div>
+    <button type="submit" class="btn btn-primary">SIGN</button>
+</form>
+<main>
