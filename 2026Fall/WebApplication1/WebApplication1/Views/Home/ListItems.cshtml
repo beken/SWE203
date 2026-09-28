@@ -1,0 +1,10 @@
+@model List<Item>
+
+@foreach (var item in Model)
+{
+    <div>
+        Name: @item.Name
+        -
+        Price: @item.Price
+    </div>
+}
