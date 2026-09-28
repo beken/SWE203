@@ -2,6 +2,19 @@ using Microsoft.AspNetCore.Mvc;
 
 public class HomeController : Controller
 {
+    /* public string Index()
+    {
+        return "Hello from controller!";
+    }  */
+
+    /* public IActionResult Index()
+    {
+        return View();
+    } */
+
+    //You can use ViewResult instead of IActionResult if you are returning a view
+    //IActionResult is more general and can return different types of results (view, json, etc.), while ViewResult is specifically for returning views.
+    
     public ViewResult Index()
     {   Message message = new Message();
         message.Text = "This is a message from model";

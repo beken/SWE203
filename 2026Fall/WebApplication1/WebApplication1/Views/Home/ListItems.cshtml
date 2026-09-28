@@ -1,4 +1,4 @@
-@model List<Item>
+@model List<Item> //specifies that the model for this view is a list of Item objects
 
 @foreach (var item in Model)
 {
@@ -8,3 +8,6 @@
         Price: @item.Price
     </div>
 }
+
+@*This page is a razor view, allows us to mix C# code with HTML*@
+@*In this view, we are iterating through the list of items and displaying their details*@
