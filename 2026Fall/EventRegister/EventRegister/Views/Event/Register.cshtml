@@ -1,0 +1,24 @@
+<h2>Please complete the form below to confirm your attendance:</h2>
+
+<form asp-action="Register" method="post">
+<div class="form-group">
+<label>Name: </label>
+<input type="text" name="Name" />
+</div>
+<div class="form-group">
+<label>Email: </label>
+<input type="text" name="Email" />
+</div>
+<div class="form-group">
+<label>Phone: </label>
+<input type="text" name="Phone" />
+</div>
+<div class="form-group">
+<label>Will Attend: </label>
+<select name="WillAttend">
+<option value="true">Attending</option>
+<option value="false">Not Attending</option>
+</select>
+</div>
+<button type="submit" class="btn btn-primary">Send Response</button>
+</form>

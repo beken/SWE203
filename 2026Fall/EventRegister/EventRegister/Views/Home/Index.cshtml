@@ -1,0 +1,14 @@
+<h1>Welcome to our event registration page!</h1>
+
+@*<h2> Days until event: @ViewBag.DaysLeft</h2>*@
+<h2> Days until event: @ViewData["DaysLeft"]</h2>
+
+<h3>Attending Guests: @ViewData["AttendingGuestsCount"]</h3>
+
+<a href="/Event/Index">Go to Event/Index page</a>
+<br />
+<a href="/Event/Register">Go to Event/Register page</a>
+
+@{
+    Layout = "_Layout";
+}

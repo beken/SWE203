@@ -1,0 +1,28 @@
+<h2> List of participants: </h2>
+
+@model List<Guest>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Will Attend</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var guest in Model)
+        {
+            <tr>
+                <td>@guest.Name</td>
+                <td>@guest.Email</td>
+                <td>@guest.Phone</td>
+                <td>@(guest.WillAttend ? "Yes" : "No")</td>
+            </tr>
+        }
+    </tbody>
+
+@{
+    Layout = "_Layout";
+}
