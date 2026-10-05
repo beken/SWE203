@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/Week 6.1 SportsApp.props" />
-</Project>
