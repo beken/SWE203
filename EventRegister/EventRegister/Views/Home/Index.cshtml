@@ -5,6 +5,10 @@
 
 <h3>Attending Guests: @ViewData["AttendingGuestsCount"]</h3>
 
+<partial name="_EventInfo" />
+
+@*@Html.Partial("_EventInfo")*@
+
 <a href="/Event/Index">Go to Event/Index page</a>
 <br />
 <a href="/Event/Register">Go to Event/Register page</a>
