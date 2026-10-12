@@ -1,29 +1,38 @@
-<h2>Please complete the form below to confirm your attendance:</h2>
+@model Guest
 
 <partial name="_EventInfo" />
 
-<form asp-action="Register" method="post">
+<h2>Please complete the form below to confirm your attendance:</h2>
+
+
+@*novalidate removes HTML5 validation*@
+
+<form asp-action="Register" method="post" novalidate>
     <div class="form-group">
-        <label>Name: </label>
-        <input type="text" name="Name" required/>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
     </div>
     <div class="form-group">
-        <label>Email: </label>
-        <input type="email" name="Email" required />
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+       <div class="form-group">
+        <label asp-for="Phone"></label>
+        <input asp-for="Phone" class="form-control" />
+        <span asp-validation-for="Phone" class="text-danger"></span>
     </div>
     <div class="form-group">
-        <label>Phone: </label>
-        <input type="tel" name="Phone" pattern="[0-9]{10}" />
-    </div>
-    <div class="form-group">
-    <label>Will Attend: </label>
-    <select name="WillAttend">
-    <option value="true">Attending</option>
-    <option value="false">Not Attending</option>
-    </select>
+        <label>Will Attend: </label>
+        <select name="WillAttend">
+            <option value="true">Attending</option>
+            <option value="false">Not Attending</option>
+        </select>
     </div>
     <button type="submit" class="btn btn-primary">Send Response</button>
 </form>
+
 
 
 @section Footer {

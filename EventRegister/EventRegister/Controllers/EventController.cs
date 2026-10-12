@@ -16,9 +16,16 @@ public class EventController: Controller
     [HttpPost]
     public IActionResult Register(Guest guest)
     {
-        Repository.CreateGuest(guest);
+        if(ModelState.IsValid == false)
+        {
+            return View(guest);
+        }
+        else
+        {
+            Repository.CreateGuest(guest);
         //return View(guest);
         //return RedirectToAction("Index");
         return Content($"Thank you {guest.Name} for registering. We will contact you at {guest.Email}.");
+        }
     }
 }
