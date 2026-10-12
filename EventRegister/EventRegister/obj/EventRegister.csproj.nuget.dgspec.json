@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/2026Fall/EventRegister/EventRegister/EventRegister.csproj": {}
+    "/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/EventRegister/EventRegister/EventRegister.csproj": {}
   },
   "projects": {
-    "/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/2026Fall/EventRegister/EventRegister/EventRegister.csproj": {
+    "/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/EventRegister/EventRegister/EventRegister.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/2026Fall/EventRegister/EventRegister/EventRegister.csproj",
+        "projectUniqueName": "/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/EventRegister/EventRegister/EventRegister.csproj",
         "projectName": "EventRegister",
-        "projectPath": "/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/2026Fall/EventRegister/EventRegister/EventRegister.csproj",
+        "projectPath": "/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/EventRegister/EventRegister/EventRegister.csproj",
         "packagesPath": "/Users/beyzaeken/.nuget/packages/",
-        "outputPath": "/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/2026Fall/EventRegister/EventRegister/obj/",
+        "outputPath": "/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/EventRegister/EventRegister/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/beyzaeken/.nuget/NuGet/NuGet.Config"
