@@ -19,5 +19,9 @@ public static class Repository
         guests.Add(guest);
     }
 
+    public static Guest GetGuestById(int id)
+    {
+        return guests.FirstOrDefault(g => g.Id == id);
+    }
 
 }

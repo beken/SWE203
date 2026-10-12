@@ -19,6 +19,7 @@
                 <td>@guest.Email</td>
                 <td>@guest.Phone</td>
                 <td>@(guest.WillAttend ? "Yes" : "No")</td>
+                <td><a href="@Url.Action("GuestDetails", new { id = guest.Id })" class="btn btn-primary">View Details</a></td>
             </tr>
         }
     </tbody>

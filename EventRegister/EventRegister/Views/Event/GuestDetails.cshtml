@@ -1,0 +1,13 @@
+@model Guest
+
+@Model.Name
+@Model.Email
+@Model.Phone
+@if (Model.WillAttend)
+{
+    <p>Will Attend: Yes</p>
+}
+else
+{
+    <p>Will Attend: No</p>
+}
