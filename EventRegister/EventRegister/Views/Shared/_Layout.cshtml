@@ -20,9 +20,14 @@
         </div>
 
         <footer class="bg-dark text-white text-center py-3 mt-4">
-            <a href="https://ubmk.org.tr/" target="_blank" class="text-white">
+            @if(IsSectionDefined("footer")){
+                @RenderSection("footer", required: false) <!-- page specific footer -->
+            } else {  <!-- default footer -->
+                <a href="https://ubmk.org.tr/" target="_blank" class="text-white">
                     2026 International Conference on Computer Science and Engineering - UBMK'26
-            </a>
+                </a>
+            }
+
         </footer>
 
     </body>
