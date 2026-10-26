@@ -1,8 +1,8 @@
-
 namespace CineClub.Models;
+
 public class Movie
 {
-    public int Id { get; set; } //PK
+    public int Id { get; set; }
     public string Title { get; set; }
-    public int GenreId { get; set; } //FK
+    public int ReleaseYear { get; set; }
 }

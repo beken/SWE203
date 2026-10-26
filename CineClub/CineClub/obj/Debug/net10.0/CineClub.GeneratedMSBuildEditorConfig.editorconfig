@@ -31,52 +31,12 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/CineClub/CineClub/Views/Genre/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2VucmUvQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/CineClub/CineClub/Views/Genre/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2VucmUvRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/CineClub/CineClub/Views/Genre/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2VucmUvRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/CineClub/CineClub/Views/Genre/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2VucmUvRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/CineClub/CineClub/Views/Genre/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2VucmUvSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/CineClub/CineClub/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/CineClub/CineClub/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/CineClub/CineClub/Views/Movie/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW92aWUvQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/CineClub/CineClub/Views/Movie/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW92aWUvRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/CineClub/CineClub/Views/Movie/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW92aWUvRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/CineClub/CineClub/Views/Movie/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW92aWUvRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/CineClub/CineClub/Views/Movie/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTW92aWUvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/beyzaeken/Documents/Dersler/SWE 203 - Web Programming/NetProjects/SWE203/CineClub/CineClub/Views/Shared/Error.cshtml]

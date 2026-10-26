@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using CineClub.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,7 +6,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<CineClubDbContext>(options =>
-    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseSqlite(
+        builder.Configuration.GetConnectionString("CineClubDbContext")));
 
 var app = builder.Build();
 
