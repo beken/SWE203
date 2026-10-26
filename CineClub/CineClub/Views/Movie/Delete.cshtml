@@ -1,0 +1,11 @@
+@model CineClub.Models.Movie
+
+<h3>Are you sure to delete this movie?</h3>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <input type="submit" value="Delete" class="btn btn-danger" />
+        <a asp-action="List" class="btn btn-secondary">Cancel</a>
+    </div>
+</form> 

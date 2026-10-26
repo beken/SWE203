@@ -60,4 +60,25 @@ public class MovieController : Controller
         _context.SaveChanges();
         return RedirectToAction("List");
     }
+
+    [HttpGet]
+    public IActionResult Delete(int id)
+    {
+        var movie = _context.Movies.Find(id);
+        if (movie == null)
+        {
+            return NotFound();
+        }
+        return View(movie);
+    }
+    [HttpPost]
+    [ActionName("Delete")]
+    public IActionResult DeleteConfirmed(int id)
+    { 
+        var movie = _context.Movies.Find(id);
+        _context.Movies.Remove(movie);
+        _context.SaveChanges();
+        return RedirectToAction("List");
+    }
+
 }
