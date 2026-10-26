@@ -23,4 +23,18 @@ public class MovieController : Controller
         var movies = _context.Movies.ToList();
         return View(movies);
     }
+
+    [HttpGet]
+    public IActionResult Create()
+    {
+        return View();
+    }
+
+    [HttpPost]
+    public IActionResult Create(Movie movie)
+    {
+        _context.Movies.Add(movie);  
+        _context.SaveChanges(); 
+        return RedirectToAction("List");
+    }
 }
