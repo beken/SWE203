@@ -1,0 +1,72 @@
+﻿@using LibraryManagement.Models
+@{
+    ViewData["Title"] = "Dashboard";
+    var overdue = (List<Borrowing>)ViewBag.Overdue;
+    var topBooks = (List<Book>)ViewBag.TopBooks;
+}
+
+<h2 class="mb-4">Dashboard</h2>
+
+<div class="row g-3 mb-5">
+    <div class="col-md-3">
+        <div class="card text-center p-3">
+            <h3>@ViewBag.BookCount</h3>
+            <div class="text-muted">Books</div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card text-center p-3">
+            <h3>@ViewBag.AuthorCount</h3>
+            <div class="text-muted">Authors</div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card text-center p-3">
+            <h3>@ViewBag.ActiveCount</h3>
+            <div class="text-muted">Active Borrowings</div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card text-center p-3 border-danger">
+            <h3 class="text-danger">@overdue.Count</h3>
+            <div class="text-danger">Overdue</div>
+        </div>
+    </div>
+</div>
+
+<div class="row g-4">
+    <div class="col-md-7">
+        <div class="card p-3">
+            <h5 class="mb-3">Overdue Borrowings</h5>
+            <table class="table table-sm mb-0">
+                <tr><th>Book</th><th>Borrower</th><th>Due</th><th>Days</th></tr>
+                @foreach (var br in overdue)
+                {
+                    <tr>
+                        <td>@br.Book!.Title</td>
+                        <td>@br.BorrowerName</td>
+                        <td>@br.DueDate.ToShortDateString()</td>
+                        <td class="text-danger">@((DateTime.Today - br.DueDate).Days)</td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+    <div class="col-md-5">
+        <div class="card p-3">
+            <h5 class="mb-3">Top 5 Most Borrowed</h5>
+            <table class="table table-sm mb-0">
+                <tr><th>Title</th><th>Times</th><th>Available</th></tr>
+                @foreach (var b in topBooks)
+                {
+                    int available = b.TotalCopies - b.Borrowings.Count(br => br.ReturnDate == null);
+                    <tr>
+                        <td>@b.Title</td>
+                        <td>@b.Borrowings.Count</td>
+                        <td>@available / @b.TotalCopies</td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</div>
