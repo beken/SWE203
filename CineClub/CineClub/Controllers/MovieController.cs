@@ -37,4 +37,27 @@ public class MovieController : Controller
         _context.SaveChanges(); 
         return RedirectToAction("List");
     }
+
+    [HttpGet]
+    public IActionResult Edit(int id)
+    {
+        var movie = _context.Movies.Find(id);
+        if (movie == null)
+        {
+            return NotFound();
+        }
+        return View(movie);
+    }
+
+    [HttpPost]
+    public IActionResult Edit(Movie movie)
+    {
+        var existingMovie = _context.Movies.Find(movie.Id);
+        if (existingMovie != null)
+            existingMovie.Title = movie.Title;
+        
+        //_context.Movies.Update(movie);
+        _context.SaveChanges();
+        return RedirectToAction("List");
+    }
 }

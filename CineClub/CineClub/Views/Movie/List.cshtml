@@ -15,6 +15,9 @@
             <tr>
                 <td>@movie.Title</td>
                 <td>@movie.ReleaseYear</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@movie.Id" class="btn btn-primary">Edit</a>
+                </td>
             </tr>
         }
     </tbody>
