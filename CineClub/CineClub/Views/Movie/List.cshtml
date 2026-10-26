@@ -1,0 +1,22 @@
+@model List<CineClub.Models.Movie>
+
+<h1>Movie List</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Release Year</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var movie in Model)
+        {
+            <tr>
+                <td>@movie.Title</td>
+                <td>@movie.ReleaseYear</td>
+            </tr>
+        }
+    </tbody>
+</table>
+s
