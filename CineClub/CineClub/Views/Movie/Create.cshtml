@@ -3,6 +3,17 @@
 <h1>Create Movie</h1>
 
 <form asp-action="Create" method="post">
+<div class="form-group">
+        <label asp-for="GenreId" class="control-label"></label>
+
+        <select asp-for="GenreId"
+                asp-items="ViewBag.Genres"
+                class="form-control">
+            <option value="">Select a genre</option>
+        </select>
+
+    </div>
+
     <div class="form-group">
         <label asp-for="Title" class="control-label"></label>
         <input asp-for="Title" class="form-control" />

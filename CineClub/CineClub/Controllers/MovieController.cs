@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using CineClub.Models;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace CineClub.Controllers;
 
@@ -27,12 +28,24 @@ public class MovieController : Controller
     [HttpGet]
     public IActionResult Create()
     {
+        ViewBag.Genres = 
+        new SelectList(
+            _context.Genres.ToList(), 
+            "Id", "Name");
+
         return View();
     }
 
     [HttpPost]
     public IActionResult Create(Movie movie)
     {
+        
+        ViewBag.Genres = 
+        new SelectList(
+            _context.Genres.ToList(), 
+            "Id", "Name");
+
+
         _context.Movies.Add(movie);  
         _context.SaveChanges(); 
         return RedirectToAction("List");
