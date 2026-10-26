@@ -15,10 +15,45 @@ namespace CineClub.Migrations
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "10.0.14");
 
+            modelBuilder.Entity("CineClub.Models.Genre", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Genres");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Name = "Comedy"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Name = "Drama"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Name = "Action"
+                        });
+                });
+
             modelBuilder.Entity("CineClub.Models.Movie", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int>("GenreId")
                         .HasColumnType("INTEGER");
 
                     b.Property<int>("ReleaseYear")
@@ -30,27 +65,48 @@ namespace CineClub.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("GenreId");
+
                     b.ToTable("Movies");
 
                     b.HasData(
                         new
                         {
                             Id = 1,
+                            GenreId = 1,
                             ReleaseYear = 1994,
                             Title = "The Shawshank Redemption"
                         },
                         new
                         {
                             Id = 2,
+                            GenreId = 2,
                             ReleaseYear = 1972,
                             Title = "The Godfather"
                         },
                         new
                         {
                             Id = 3,
+                            GenreId = 3,
                             ReleaseYear = 2008,
                             Title = "The Dark Knight"
                         });
+                });
+
+            modelBuilder.Entity("CineClub.Models.Movie", b =>
+                {
+                    b.HasOne("CineClub.Models.Genre", "Genre")
+                        .WithMany("Movies")
+                        .HasForeignKey("GenreId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Genre");
+                });
+
+            modelBuilder.Entity("CineClub.Models.Genre", b =>
+                {
+                    b.Navigation("Movies");
                 });
 #pragma warning restore 612, 618
         }
